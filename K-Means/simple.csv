@@ -1,0 +1,11 @@
+PatientID,Age,Gender,WhiteBloodCellCount,RedBloodCellCount,PlateletCount,Diagnosis
+1,45,M,5600,4.7,250000,Healthy
+2,34,F,7800,4.9,300000,Anemia
+3,50,M,4300,5.1,200000,Leukemia
+4,29,F,6700,4.8,270000,Healthy
+5,60,M,4900,4.5,220000,Anemia
+6,38,F,7200,4.6,310000,Healthy
+7,55,M,5100,5.0,230000,Leukemia
+8,42,F,6000,4.7,290000,Healthy
+9,33,M,7500,4.9,280000,Anemia
+10,47,F,5800,5.2,260000,Healthy
